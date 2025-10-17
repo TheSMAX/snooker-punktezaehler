@@ -1,0 +1,1 @@
+This is a simple Snooker Counter in React.
